@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "values": [
+    {
+      "name": "login key",
+      "group": "authentication",
+      "value": "AKIB-06T9",
+      "source": "user requirement"
+    },
+    {
+      "name": "license status",
+      "group": "authentication",
+      "value": "✓ ACTIVE • LIFETIME UNLIMITED",
+      "source": "MainActivity.G()"
+    },
+    {
+      "name": "crypto security",
+      "group": "authentication",
+      "value": "256-Bit Hardware Bound ECC",
+      "source": "SecurityGuard.smali"
+    },
+    {
+      "name": "brand title",
+      "group": "ui",
+      "value": "LUDO CONTROLLER ULTRA",
+      "source": "function 0x2120"
+    },
+    {
+      "name": "brand subtitle",
+      "group": "ui",
+      "value": "⚡ Neural Engine v5.0 • Platinum Edition",
+      "source": "function 0x21c0"
+    },
+    {
+      "name": "lock title",
+      "group": "ui",
+      "value": "LUDO CONTROLLER ULTRA",
+      "source": "function 0x2260"
+    },
+    {
+      "name": "version tag",
+      "group": "ui",
+      "value": "✦ v5.0",
+      "source": "MainActivity.f()"
+    },
+    {
+      "name": "background color",
+      "group": "styling",
+      "value": "#050912",
+      "source": "MainActivity.f() offset 001a"
+    },
+    {
+      "name": "card top color",
+      "group": "styling",
+      "value": "#0b1d38",
+      "source": "MainActivity.f() offset 02e7"
+    },
+    {
+      "name": "card mid color",
+      "group": "styling",
+      "value": "#0a2342",
+      "source": "MainActivity.f() offset 02f0"
+    },
+    {
+      "name": "card bottom color",
+      "group": "styling",
+      "value": "#071528",
+      "source": "MainActivity.f() offset 02f9"
+    },
+    {
+      "name": "accent border color",
+      "group": "styling",
+      "value": "#0ea5e9",
+      "source": "MainActivity.f() offset 0310"
+    },
+    {
+      "name": "remote port",
+      "group": "network",
+      "value": 18080,
+      "unit": "port",
+      "source": "MainActivity.J()"
+    },
+    {
+      "name": "remote default ip",
+      "group": "network",
+      "value": "192.168.43.1",
+      "source": "MainActivity.J()"
+    },
+    {
+      "name": "dice faces",
+      "group": "gameplay",
+      "value": 6,
+      "unit": "count",
+      "source": "MainActivity.f() offset 11a5"
+    },
+    {
+      "name": "cursed rng",
+      "group": "tactics",
+      "value": 0,
+      "unit": "%",
+      "source": "MainActivity.f() offset 0eee"
+    },
+    {
+      "name": "mild human rng",
+      "group": "tactics",
+      "value": 25,
+      "unit": "%",
+      "source": "MainActivity.f() offset 0ef3"
+    },
+    {
+      "name": "robots rng",
+      "group": "tactics",
+      "value": 50,
+      "unit": "%",
+      "source": "MainActivity.f() offset 0efd"
+    },
+    {
+      "name": "lucky human rng",
+      "group": "tactics",
+      "value": 75,
+      "unit": "%",
+      "source": "MainActivity.f() offset 0ef8"
+    },
+    {
+      "name": "god mode rng",
+      "group": "tactics",
+      "value": 100,
+      "unit": "%",
+      "source": "MainActivity.f() offset 0f02"
+    },
+    {
+      "name": "player color blue",
+      "group": "players",
+      "value": "#2464e8",
+      "source": "MainActivity.f() offset 0a52"
+    },
+    {
+      "name": "player color red",
+      "group": "players",
+      "value": "#dd2724",
+      "source": "MainActivity.f() offset 0a5b"
+    },
+    {
+      "name": "player color green",
+      "group": "players",
+      "value": "#17a34a",
+      "source": "MainActivity.f() offset 0a64"
+    },
+    {
+      "name": "player color yellow",
+      "group": "players",
+      "value": "#c98b04",
+      "source": "MainActivity.f() offset 0a6d"
+    }
+  ]
+}
